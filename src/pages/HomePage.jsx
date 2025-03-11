@@ -50,7 +50,7 @@ const HomePage = () => {
                     </div>
                 )}
             </nav>
-            <h1 className="flex items-center w-full min-w-lg justify-center text-black text-2xl">Welcome to Our FakeStore</h1>
+            <h1 className="flex items-center w-full min-w-lg justify-center text-black text-3xl">Welcome to Our FakeStore</h1>
         </div>
         
     );
